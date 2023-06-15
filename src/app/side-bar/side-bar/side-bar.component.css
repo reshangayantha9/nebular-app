@@ -1,0 +1,9 @@
+nb-menu {
+  width: 200px;
+}
+
+@media (max-width: 600px) {
+  nb-menu {
+    width: 100%;
+  }
+}
